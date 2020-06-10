@@ -6,8 +6,8 @@ print("Hello")
 a = 3
 print(a)
 # String in python
-Str = "Hello World"
-print(Str)
+b = "Hello World"
+print(b)
 # Multiple variable
 # Python have code indentation
 a, b, c, d, f = 2, 3.4, "Pranav", "Jagrtuti", "Great"
